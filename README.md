@@ -105,3 +105,5 @@ For example, add the following Markdown to your `README.md` file to display a gb
 
 
 [![Java CI with Maven](https://github.com/lovaszimarci/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/lovaszimarci/se-lab/actions/workflows/maven.yml)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
